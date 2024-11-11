@@ -1,5 +1,8 @@
 ***the fiat_to_usdc.md file in the repository shows a sample algorithm implementation code for the transfer.***
 
+*diagrams links : *
+https://excalidraw.com/#json=hFbzmb58Ai1DKpI4iID-1,RAuI3JWerPtvdfhoht64Lg
+
 
 *enhancements :*
 
